@@ -1,2 +1,1 @@
-# FlappyBirdUIKit
-UIKitでFlappyBirdを作成
+
